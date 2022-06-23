@@ -1,9 +1,11 @@
 
-# homeless.app
+# homeless.app  
 
-1. a shelter locatator for the homeless
+1. a shelter locatator for the homeless  
 
-an app that helps the homeless find a place to stay.
+an app that helps the homeless find a place to stay.  
+
+https://homeless.app  
 
 
 
